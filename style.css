@@ -3,29 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Title</title>
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            background: url('https://i.pinimg.com/originals/56/3a/b1/563ab15230f5bf4259f11125fd1f9c0e.gif') no-repeat center center fixed;
-            background-size: cover;
-        }
-    </style>
-</head>
-<body>
-    <!-- You can add more content here if needed -->
-</body>
-</html>
- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ilucious Cyber Net</title>
     <style>
         body {
-            background: linear-gradient(to bottom, #2d033b, #000000);
+            background: url('https://i.pinimg.com/originals/56/3a/b1/563ab15230f5bf4259f11125fd1f9c0e.gif') no-repeat center center fixed, linear-gradient(to bottom, #2d033b, #000000);
+            background-size: cover;
             color: white;
             font-family: "Courier New", Courier, monospace;
             margin: 0;
